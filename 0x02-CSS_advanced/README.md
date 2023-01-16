@@ -57,3 +57,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - All your files should start by a comment describing the task
 - A README.md file, at the root of the folder of the project, is mandatory
 - Your code should be W3C compliant and validate with W3C-Validator
+
+## End goal of the project
+
+![end goal](/images/endgoal.png)
