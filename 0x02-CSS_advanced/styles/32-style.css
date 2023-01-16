@@ -612,8 +612,8 @@ ul.row {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
-    transition: var(--transition-duration);
-    transition-property: transit;
+    transition-duration: var(--transition-duration);
+    transition-property: var(--transition-cubic-bezier);
 }
 
 .card-testimonial {
@@ -667,7 +667,7 @@ ul.row {
     background-color: var(--color-white);
     width: 0;
     height: 0.2rem;
-    transition: var(--transition-duration) var(--transition-cubic-bezier)
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .nav .nav-item:hover .nav-link::before {
@@ -741,8 +741,10 @@ ul.row {
 
 .card-work:hover .card-image {
     transform: scale(1.2);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work:hover .card-outer {
     transform: scale(0.95);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
