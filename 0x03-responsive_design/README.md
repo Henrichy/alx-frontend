@@ -25,6 +25,7 @@ _For this project, we expect you to look at this concept:_
 - [LukeW | Mobile First](https://www.lukew.com/ff/entry.asp?933)
 - [Media Queries | A collection of inspirational websites using media queries and responsive web design](https://mediaqueri.es/)
 - [Responsive Design Newsletter](https://bytes.dev/?s=rwd)
+- [Responsive breakpoint](https://www.responsivebreakpoints.com/)
 
 ## Learning Objectives
 
